@@ -1,4 +1,4 @@
-Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data · updated daily  |  report week 2026-11-16 to 2026-11-22  |  as at 2026-11-22  |  generated 2026-11-23 11:43
+Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data · updated daily  |  report week 2026-11-16 to 2026-11-22  |  as at 2026-11-22  |  generated 2026-11-23 15:01
 
 ==============================================================================
 1. THIS WEEK  ·  Is the work flowing?
@@ -66,7 +66,7 @@ RECONCILIATION RULES R1 to R7
   [PASS] R4 Per staff per day: on-site + travel <= paid hours, and labour lines match the timesheet (2769 staff-days; on-site match True, travel within True, within paid True)
   [PASS] R5 Every callback points to a completed, earlier parent job (144 callbacks; problems 0)
   [PASS] R6 Compliance lodged only where required, never before completion (2574 lodged; problems 0)
-  [PASS] R7 Nothing already published changes (append-only check against the previous files) (checked 8 tables against /sessions/rcw-01fiqja8z7665exmazrycy6t/scratch/p3)
+  [PASS] R7 Nothing already published changes (append-only check against the previous files) (checked 8 tables against published)
 
 ==============================================================================
 STORY CHECKS (the planted patterns must stay visible; warnings, not failures)
@@ -81,6 +81,6 @@ STORY CHECKS (the planted patterns must stay visible; warnings, not failures)
   Jobs on hold for parts now: 6
   No story warnings
 
-  Metrics written to data/metrics.json
+  Metrics written to data-repo/data/metrics.json
 
 ALL RULES PASS
