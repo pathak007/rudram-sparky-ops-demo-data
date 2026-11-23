@@ -1,0 +1,8 @@
+Band,MinHours,MaxHours,SortOrder,WithinTarget
+Under 1 hr,0,1,1,True
+1 to 2 hrs,1,2,2,True
+2 to 4 hrs,2,4,3,True
+4 to 8 hrs,4,8,4,False
+8 to 24 hrs,8,24,5,False
+Over 24 hrs,24,998,6,False
+No reply yet,998,1000000,7,False

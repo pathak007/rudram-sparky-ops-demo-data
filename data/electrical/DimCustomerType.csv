@@ -1,0 +1,5 @@
+CustomerTypeKey,CustomerType,SortOrder,PaymentTermsDays
+RES,Residential,1,7
+COM,Commercial,2,14
+STR,Strata / Property Manager,3,30
+BLD,Builder,4,30

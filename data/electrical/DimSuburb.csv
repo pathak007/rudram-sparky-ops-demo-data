@@ -1,0 +1,33 @@
+SuburbKey,Suburb,Postcode,Region,Latitude,Longitude,KmFromDepot
+SB01,Malaga,6090,North East,-31.858,115.895,0.0
+SB02,Morley,6062,North East,-31.893,115.906,5.2
+SB03,Dianella,6059,North East,-31.888,115.871,5.2
+SB04,Noranda,6062,North East,-31.873,115.899,2.2
+SB05,Ballajura,6066,North East,-31.84,115.895,2.6
+SB06,Beechboro,6063,North East,-31.866,115.935,5.0
+SB07,Bassendean,6054,East,-31.906,115.946,9.3
+SB08,Bayswater,6053,East,-31.917,115.917,8.9
+SB09,Midland,6056,East,-31.888,116.01,14.8
+SB10,Ellenbrook,6069,North East,-31.766,115.969,16.1
+SB11,Mount Lawley,6050,Central,-31.934,115.871,11.4
+SB12,Inglewood,6052,Central,-31.917,115.881,8.7
+SB13,Yokine,6060,North,-31.902,115.852,8.3
+SB14,Tuart Hill,6060,North,-31.898,115.835,9.4
+SB15,Osborne Park,6017,North,-31.901,115.81,12.1
+SB16,Stirling,6021,North,-31.886,115.807,11.5
+SB17,Balcatta,6021,North,-31.874,115.828,8.5
+SB18,Mirrabooka,6061,North,-31.86,115.866,3.6
+SB19,Scarborough,6019,Coastal,-31.894,115.765,16.8
+SB20,Karrinyup,6018,Coastal,-31.872,115.776,14.7
+SB21,Duncraig,6023,Coastal,-31.832,115.778,14.9
+SB22,Hillarys,6025,Coastal,-31.807,115.744,20.0
+SB23,Kingsley,6026,North,-31.809,115.8,13.6
+SB24,Wanneroo,6065,North,-31.751,115.807,18.9
+SB25,Joondalup,6027,North,-31.745,115.766,22.8
+SB26,North Perth,6006,Central,-31.927,115.852,11.3
+SB27,Leederville,6007,Central,-31.937,115.841,13.2
+SB28,Perth,6000,Central,-31.952,115.861,14.2
+SB29,Subiaco,6008,Central,-31.949,115.826,15.6
+SB30,Victoria Park,6100,South East,-31.976,115.898,17.1
+SB31,Belmont,6104,South East,-31.944,115.925,13.0
+SB32,Cannington,6107,South East,-32.018,115.935,23.6

@@ -1,0 +1,5 @@
+Bucket,MinDays,MaxDays,SortOrder,IsStale
+0 to 7 days,0,7,1,False
+8 to 14 days,8,14,2,False
+15 to 30 days,15,30,3,False
+Over 30 days,31,9999,4,True

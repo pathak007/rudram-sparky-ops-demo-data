@@ -1,0 +1,11 @@
+JobTypeKey,JobType,SortOrder,ComplianceRequired,IsRecurring
+FF,Fault finding,1,False,False
+SB,Switchboard upgrade,2,True,False
+PPL,Power points & lighting,3,True,False
+SA,Smoke alarms,4,True,False
+FAN,Ceiling fans & aircon circuits,5,True,False
+EV,EV charger install,6,True,False
+SOL,Solar & battery related,7,True,False
+TT,Test & tag,8,False,False
+DATA,Data & cabling,9,False,False
+CMV,Commercial maintenance visit,10,False,True

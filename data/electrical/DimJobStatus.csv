@@ -1,0 +1,7 @@
+StatusKey,Status,SortOrder,IsOpen,StatusGroup
+BOOK,"Booked, not yet scheduled",1,True,Waiting
+SCHED,Scheduled,2,True,Scheduled
+PROG,In progress,3,True,In progress
+HOLDP,"On hold, waiting on parts",4,True,On hold
+HOLDC,"On hold, waiting on customer",5,True,On hold
+DONE,Completed,6,False,Completed

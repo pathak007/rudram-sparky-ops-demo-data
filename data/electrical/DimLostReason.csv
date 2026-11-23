@@ -1,0 +1,6 @@
+LostReasonKey,LostReason,SortOrder
+PRICE,Price,1
+OTHER,Went with another electrician,2
+SLOW,We were too slow to get back,3
+POSTP,Job postponed or cancelled,4
+NORESP,No reply from customer,5

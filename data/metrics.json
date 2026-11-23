@@ -1,0 +1,457 @@
+{
+  "industry": "electrical",
+  "business": "Tuart Line Electrical Pty Ltd",
+  "as_at": "2026-11-22",
+  "report_week_start": "2026-11-16",
+  "report_week_end": "2026-11-22",
+  "trend_start": "2026-08-31",
+  "generated": "2026-11-23 11:43",
+  "rules_failed": [],
+  "kpis": {
+    "Jobs Completed": {
+      "value": 71.0,
+      "previous": 69.0,
+      "delta": 2.0,
+      "status": "On target",
+      "display": "71",
+      "previous_display": "69",
+      "goal": "60 jobs finished a week",
+      "goal_kind": "Everyday",
+      "weeks_on_target": 9.0,
+      "best_week": 74.0,
+      "best_week_display": "74",
+      "is_best_week": false
+    },
+    "Enquiries": {
+      "value": 110.0,
+      "previous": 103.0,
+      "delta": 7.0,
+      "status": "On target",
+      "display": "110",
+      "previous_display": "103",
+      "goal": "90 new enquiries a week",
+      "goal_kind": "Everyday",
+      "weeks_on_target": 9.0,
+      "best_week": 122.0,
+      "best_week_display": "122",
+      "is_best_week": false
+    },
+    "Median First Response (hrs)": {
+      "value": 1.755,
+      "previous": 2.28,
+      "delta": -0.525,
+      "status": "On target",
+      "display": "1.8 hrs",
+      "previous_display": "2.3 hrs",
+      "goal": "Half our customers hear back within 2 hours",
+      "goal_kind": "Everyday",
+      "weeks_on_target": 6.0,
+      "best_week": 1.56,
+      "best_week_display": "1.6 hrs",
+      "is_best_week": false
+    },
+    "Quote Win Rate": {
+      "value": 0.5273,
+      "previous": 0.4,
+      "delta": 0.1273,
+      "status": "On target",
+      "display": "53%",
+      "previous_display": "40%",
+      "goal": "Win nearly 1 in 2 quotes",
+      "goal_kind": "Stretch",
+      "weeks_on_target": 4.0,
+      "best_week": 0.5273,
+      "best_week_display": "53%",
+      "is_best_week": true
+    },
+    "Team Utilisation %": {
+      "value": 0.8321,
+      "previous": 0.7898,
+      "delta": 0.0423,
+      "status": "Watch",
+      "display": "83%",
+      "previous_display": "79%",
+      "goal": "Busy, not burnt out: 70% to 82% of the day on the tools",
+      "goal_kind": "Everyday",
+      "weeks_on_target": 9.0,
+      "best_week": 0.7525,
+      "best_week_display": "75%",
+      "is_best_week": false
+    },
+    "Callback Rate": {
+      "value": 0.0704,
+      "previous": 0.058,
+      "delta": 0.0125,
+      "status": "Off target",
+      "display": "7%",
+      "previous_display": "6%",
+      "goal": "Fewer than 3 in 100 jobs come back",
+      "goal_kind": "Everyday",
+      "weeks_on_target": 4.0,
+      "best_week": 0.0159,
+      "best_week_display": "2%",
+      "is_best_week": false
+    },
+    "% Responded Within Target": {
+      "value": 0.5727,
+      "previous": 0.5631,
+      "delta": 0.0096,
+      "status": "Off target",
+      "display": "57%",
+      "previous_display": "56%",
+      "goal": "8 in 10 enquiries answered within 4 hours",
+      "goal_kind": "Stretch",
+      "weeks_on_target": 0.0,
+      "best_week": 0.7019,
+      "best_week_display": "70%",
+      "is_best_week": false
+    },
+    "Quote Turnaround (days)": {
+      "value": 3.4423,
+      "previous": 3.5556,
+      "delta": -0.1132,
+      "status": "Watch",
+      "display": "3.4 days",
+      "previous_display": "3.6 days",
+      "goal": "Quotes out within 3 days",
+      "goal_kind": "Stretch",
+      "weeks_on_target": 0.0,
+      "best_week": 3.1667,
+      "best_week_display": "3.2 days",
+      "is_best_week": false
+    },
+    "On-Time Arrival %": {
+      "value": 0.8857,
+      "previous": 0.9014,
+      "delta": -0.0157,
+      "status": "On target",
+      "display": "89%",
+      "previous_display": "90%",
+      "goal": "On site within 30 minutes of the booked time, 85% of the time",
+      "goal_kind": "Everyday",
+      "weeks_on_target": 8.0,
+      "best_week": 0.9074,
+      "best_week_display": "91%",
+      "is_best_week": false
+    },
+    "Est vs Actual Hours %": {
+      "value": 0.044,
+      "previous": -0.002,
+      "delta": 0.046,
+      "status": "On target",
+      "display": "4%",
+      "previous_display": "-0%",
+      "goal": "Jobs finish within 5% of the estimate",
+      "goal_kind": "Everyday",
+      "weeks_on_target": 9.0,
+      "best_week": -0.0179,
+      "best_week_display": "-2%",
+      "is_best_week": false
+    },
+    "Average Job Value": {
+      "value": 599.7097,
+      "previous": 618.2045,
+      "delta": -18.4948,
+      "status": "On target",
+      "display": "$600",
+      "previous_display": "$618",
+      "goal": "$550 average job",
+      "goal_kind": "Everyday",
+      "weeks_on_target": 10.0,
+      "best_week": 666.5933,
+      "best_week_display": "$667",
+      "is_best_week": false
+    },
+    "Quotes Sent": {
+      "value": 52.0,
+      "previous": 54.0,
+      "delta": -2.0,
+      "status": null,
+      "display": "52",
+      "previous_display": "54"
+    },
+    "Quote Win Rate (Value)": {
+      "value": 0.5607,
+      "previous": 0.3881,
+      "delta": 0.1726,
+      "status": null,
+      "display": "56%",
+      "previous_display": "39%"
+    },
+    "Overdue Invoices": {
+      "value": 18.0,
+      "status": "Watch",
+      "display": "18",
+      "as_at": true,
+      "goal": "No more than 15 invoices overdue",
+      "goal_kind": "Everyday"
+    },
+    "Backlog Days": {
+      "value": 8.9512,
+      "display": "9.0 days",
+      "as_at": true,
+      "goal": "3 to 8 days of work booked ahead",
+      "goal_kind": "Everyday",
+      "status": "Watch"
+    }
+  },
+  "snapshot": {
+    "Backlog Days": 8.9512,
+    "Backlog Hours": 358.05,
+    "Unassigned Jobs": 32.0,
+    "Open Quotes": 103.0,
+    "Open Quote Value": 89575.0,
+    "Stale Quotes": 18.0,
+    "Overdue Invoices": 18.0,
+    "Compliance Overdue": 7.0,
+    "jobs_by_status": {
+      "Scheduled": 49,
+      "Booked, not yet scheduled": 32,
+      "On hold, waiting on parts": 6,
+      "On hold, waiting on customer": 4,
+      "In progress": 2
+    },
+    "quote_ageing": {
+      "0 to 7 days": 41,
+      "8 to 14 days": 22,
+      "15 to 30 days": 22,
+      "Over 30 days": 18
+    },
+    "quote_ageing_value": {
+      "0 to 7 days": 30010.0,
+      "8 to 14 days": 21205.0,
+      "15 to 30 days": 22030.0,
+      "Over 30 days": 16330.0
+    }
+  },
+  "trend": [
+    {
+      "week": "2026-08-31",
+      "jobs_completed": 61,
+      "enquiries": 88,
+      "win_rate": 0.38235294117647056,
+      "utilisation": 0.7138157894736842
+    },
+    {
+      "week": "2026-09-07",
+      "jobs_completed": 63,
+      "enquiries": 90,
+      "win_rate": 0.36585365853658536,
+      "utilisation": 0.7525062656641602
+    },
+    {
+      "week": "2026-09-14",
+      "jobs_completed": 60,
+      "enquiries": 89,
+      "win_rate": 0.3684210526315789,
+      "utilisation": 0.7549786628733997
+    },
+    {
+      "week": "2026-09-21",
+      "jobs_completed": 62,
+      "enquiries": 81,
+      "win_rate": 0.5,
+      "utilisation": 0.7466216216216214
+    },
+    {
+      "week": "2026-09-28",
+      "jobs_completed": 49,
+      "enquiries": 93,
+      "win_rate": 0.40625,
+      "utilisation": 0.7082043343653251
+    },
+    {
+      "week": "2026-10-05",
+      "jobs_completed": 70,
+      "enquiries": 104,
+      "win_rate": 0.2826086956521739,
+      "utilisation": 0.6973684210526315
+    },
+    {
+      "week": "2026-10-12",
+      "jobs_completed": 56,
+      "enquiries": 104,
+      "win_rate": 0.3409090909090909,
+      "utilisation": 0.5401002506265663
+    },
+    {
+      "week": "2026-10-19",
+      "jobs_completed": 56,
+      "enquiries": 122,
+      "win_rate": 0.47368421052631576,
+      "utilisation": 0.7215504978662871
+    },
+    {
+      "week": "2026-10-26",
+      "jobs_completed": 62,
+      "enquiries": 101,
+      "win_rate": 0.32608695652173914,
+      "utilisation": 0.7708036984352772
+    },
+    {
+      "week": "2026-11-02",
+      "jobs_completed": 74,
+      "enquiries": 112,
+      "win_rate": 0.45652173913043476,
+      "utilisation": 0.7355889724310776
+    },
+    {
+      "week": "2026-11-09",
+      "jobs_completed": 69,
+      "enquiries": 103,
+      "win_rate": 0.4,
+      "utilisation": 0.7897869674185463
+    },
+    {
+      "week": "2026-11-16",
+      "jobs_completed": 71,
+      "enquiries": 110,
+      "win_rate": 0.5272727272727272,
+      "utilisation": 0.8320802005012529
+    }
+  ],
+  "kpis_12wk": {
+    "Enquiries": 1197.0,
+    "Median First Response (hrs)": 1.85,
+    "% Responded Within Target": 0.6115,
+    "Quotes Sent": 513.0,
+    "Quote Win Rate": 0.4024,
+    "Quote Win Rate (Value)": 0.407,
+    "Quote Turnaround (days)": 3.5692,
+    "Jobs Completed": 753.0,
+    "Average Job Value": 584.2765,
+    "On-Time Arrival %": 0.8537,
+    "Est vs Actual Hours %": 0.0244,
+    "Team Utilisation %": 0.7299,
+    "Callback Rate": 0.0359
+  },
+  "enquiries_quotes": {
+    "by_source": {
+      "Google / website": 312,
+      "Repeat customer": 262,
+      "Lead site": 248,
+      "Referral": 149,
+      "Property manager": 132,
+      "Builder": 94
+    },
+    "by_job_type": {
+      "Power points & lighting": 269,
+      "Fault finding": 237,
+      "Ceiling fans & aircon circuits": 159,
+      "Smoke alarms": 138,
+      "Switchboard upgrade": 109,
+      "EV charger install": 94,
+      "Solar & battery related": 91,
+      "Data & cabling": 53,
+      "Test & tag": 47
+    },
+    "response_bands": {
+      "Under 1 hr": 368,
+      "1 to 2 hrs": 251,
+      "2 to 4 hrs": 113,
+      "4 to 8 hrs": 25,
+      "8 to 24 hrs": 293,
+      "Over 24 hrs": 129,
+      "No reply yet": 18
+    },
+    "monday_median_hrs": 3.01,
+    "tue_fri_median_hrs": 1.26,
+    "over_target_after_3pm": 0.7908,
+    "over_target_7am_to_3pm": 0.088,
+    "quote_turnaround_days": 3.5692,
+    "win_rate_by_job_type": {
+      "Data & cabling": 0.4146,
+      "EV charger install": 0.3768,
+      "Ceiling fans & aircon circuits": 0.4767,
+      "Fault finding": 0.6,
+      "Power points & lighting": 0.3717,
+      "Smoke alarms": 0.2941,
+      "Switchboard upgrade": 0.4103,
+      "Solar & battery related": 0.3333,
+      "Test & tag": 0.4762
+    },
+    "win_rate_by_source": {
+      "Builder": 0.4026,
+      "Lead site": 0.2333,
+      "Property manager": 0.3929,
+      "Referral": 0.5385,
+      "Repeat customer": 0.4949,
+      "Google / website": 0.3835
+    },
+    "win_rate_fast": 0.5123,
+    "win_rate_slow": 0.1867,
+    "decided_fast": 326,
+    "decided_slow": 166,
+    "quote_value_won": 158310.0,
+    "quote_value_lost": 230690.0,
+    "lost_reasons": {
+      "No reply from customer": 90,
+      "Price": 81,
+      "Went with another electrician": 63,
+      "Job postponed or cancelled": 34,
+      "We were too slow to get back": 26
+    }
+  },
+  "jobs_schedule": {
+    "on_time_12wk": 0.8537,
+    "est_vs_actual_by_job_type": {
+      "Commercial maintenance visit": 0.0736,
+      "Data & cabling": -0.1272,
+      "EV charger install": -0.0628,
+      "Ceiling fans & aircon circuits": -0.0228,
+      "Fault finding": 0.1004,
+      "Power points & lighting": -0.0228,
+      "Smoke alarms": -0.0392,
+      "Switchboard upgrade": 0.2498,
+      "Solar & battery related": 0.023,
+      "Test & tag": -0.0849
+    },
+    "jobs_by_suburb": {
+      "Dianella": 42,
+      "Bayswater": 41,
+      "Morley": 41,
+      "Beechboro": 39,
+      "Malaga": 34,
+      "Mirrabooka": 33,
+      "Balcatta": 32,
+      "Scarborough": 29,
+      "Inglewood": 28,
+      "Tuart Hill": 28,
+      "Ballajura": 28,
+      "Ellenbrook": 27,
+      "Mount Lawley": 26,
+      "North Perth": 26,
+      "Osborne Park": 25,
+      "Noranda": 25,
+      "Yokine": 24,
+      "Perth": 22,
+      "Bassendean": 21,
+      "Leederville": 20,
+      "Wanneroo": 19,
+      "Karrinyup": 18,
+      "Midland": 18,
+      "Kingsley": 16,
+      "Joondalup": 16,
+      "Stirling": 16,
+      "Belmont": 16,
+      "Subiaco": 13,
+      "Duncraig": 11,
+      "Victoria Park": 8,
+      "Hillarys": 7,
+      "Cannington": 4
+    }
+  },
+  "story": {
+    "callback_rate_by_lead": {
+      "Dave": 0.0324,
+      "Liam": 0.0182,
+      "Jake": 0.0209,
+      "Mitch": 0.0289,
+      "Ravi": 0.0199,
+      "Connor": 0.0934,
+      "Hamish": 0.0223
+    },
+    "utilisation_12wk": 0.7299,
+    "turnover_12m": 1694336.72
+  }
+}

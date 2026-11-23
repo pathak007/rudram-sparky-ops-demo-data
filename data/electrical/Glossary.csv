@@ -1,0 +1,29 @@
+Term,Definition,Screen,SortOrder
+This week,"The last full week, Monday to Sunday. Weekly tiles change on Monday mornings, when a new week closes.",All,1
+Last 12 weeks,The charts on Enquiries & Quotes and Jobs & Schedule cover the 12 full weeks up to this week.,All,2
+As at,"Some numbers are a snapshot as at yesterday: backlog, jobs by status, unassigned jobs, open quotes and overdue invoices. They move every day.",All,3
+Goal,What a good week looks like. Everyday goals are hit most good weeks; stretch goals are where the business is working to improve.,All,4
+On target / Watch / Off target,"On target: the goal is met. Watch: close, within a small margin. Off target: further away. A band goal can also be below or above its band.",All,5
+Best week,The best week in the last 12 for that number. The week to beat.,This Week,6
+Jobs completed,"Jobs finished in the week. Callbacks are not counted, because fixing our own work isn't new work.",This Week,7
+New enquiries,"Every new request for work received in the week, from any source, whether or not it became a job.",This Week,8
+Median first reply,"Half of the week's enquiries heard back within this time. Clock hours, nights and weekends included, because that is how long the customer waits. An enquiry with no reply yet counts as the slowest.",This Week,9
+Replied within 4 hours,The share of enquiries that got a first reply within 4 clock hours of arriving.,Enquiries & Quotes,10
+Quote win rate,"Of the quotes the customer decided on this week, the share they accepted. Quotes with no decision yet are left out.",This Week,11
+Quote value won vs lost,"The dollar value of quotes accepted and declined in the last 12 weeks, ex GST.",Enquiries & Quotes,12
+Quote turnaround,"Days from the enquiry arriving to the quote being sent, on average.",Enquiries & Quotes,13
+Open quotes,"Quotes sent with no decision yet, grouped by how many days ago they went out. Over 30 days is stale.",Enquiries & Quotes,14
+Lost reasons,Why declined quotes were lost. 'No reply from customer' is a quote still open after 45 days.,Enquiries & Quotes,15
+Enquiry source,"Where the enquiry came from: Google or the website, a referral, a repeat customer, a builder, a property manager, or a lead site.",Enquiries & Quotes,16
+Team utilisation,"On-site hours as a share of the hours the field team was available to work. Travel, workshop and paperwork time are not on-site time.",This Week,17
+Callback rate,"Callbacks booked in the week as a share of jobs completed in the week. A callback is a return visit, at no charge, because the first fix didn't hold.",This Week,18
+Average job value,"Value of the week's completed jobs divided by the number of jobs, ex GST.",This Week,19
+Overdue invoices,"Invoices past their due date and still unpaid, as at yesterday. A count, not dollars.",This Week,20
+Jobs by status,"Open jobs as at yesterday: booked but not yet scheduled, scheduled, in progress (more visits to come), on hold for parts, or on hold waiting on the customer.",Jobs & Schedule,21
+Unassigned jobs,"Jobs booked but not yet on anyone's schedule. The office plans five working days ahead, so jobs booked for later dates wait here.",Jobs & Schedule,22
+Backlog,"Days of work already booked: the estimated hours still to do on open jobs, divided by about 40 on-site hours a day.",Jobs & Schedule,23
+On-time arrival,Share of first visits where the electrician arrived within 30 minutes of the booked start time.,Jobs & Schedule,24
+Estimated vs actual hours,"How far actual on-site hours ran over (+) or under (-) the estimate, for completed jobs. Hours are person-hours, so an apprentice's time counts too.",Jobs & Schedule,25
+Jobs by suburb,Completed jobs in the last 12 weeks by suburb.,Jobs & Schedule,26
+Opening book,Jobs already booked in the old system when the job system went live on 1 Jul 2025.,Jobs & Schedule,27
+Synthetic data,Tuart Line Electrical is a fictional business. Every number is simulated and updates daily. No real customer data is used.,All,28
