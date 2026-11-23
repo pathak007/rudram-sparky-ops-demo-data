@@ -1,6 +1,6 @@
 {
   "week_starting": "2026-11-16",
-  "generated": "2026-11-23 15:11",
+  "generated": "2026-11-23 19:54",
   "model": "claude-sonnet-5-5",
   "as_at": "2026-11-22",
   "facts": [
@@ -28,19 +28,26 @@
   "attempts": [
     {
       "attempt": 1,
-      "raw": "",
-      "problems": [
-        "call failed: 'ThinkingBlock' object has no attribute 'text'"
-      ]
-    },
-    {
-      "attempt": 2,
-      "raw": "",
-      "problems": [
-        "call failed: 'ThinkingBlock' object has no attribute 'text'"
-      ]
+      "raw": "{\"points\": [{\"figure\": \"53%\", \"headline\": \"Quote win rate jumped to a new high\", \"body\": \"53% of quotes were won, up 13 pts on last week and the best week in the last 12.\"}, {\"figure\": \"79% vs 9%\", \"headline\": \"Afternoon enquiries are left waiting\", \"body\": \"79% of weekday enquiries arriving after 3pm waited over 4 hrs for a reply, against 9% earlier in the day. Quotes answered fast win far more.\"}, {\"figure\": \"3.0 hrs\", \"headline\": \"Name someone to own the inbox\", \"body\": \"Roster one person to clear new enquiries before knocking off each day, and to own the inbox on Mondays, when first replies take 3.0 hrs.\"}]}",
+      "problems": []
     }
   ],
-  "published": false,
-  "points": null
+  "published": true,
+  "points": [
+    {
+      "figure": "53%",
+      "headline": "Quote win rate jumped to a new high",
+      "body": "53% of quotes were won, up 13 pts on last week and the best week in the last 12."
+    },
+    {
+      "figure": "79% vs 9%",
+      "headline": "Afternoon enquiries are left waiting",
+      "body": "79% of weekday enquiries arriving after 3pm waited over 4 hrs for a reply, against 9% earlier in the day. Quotes answered fast win far more."
+    },
+    {
+      "figure": "3.0 hrs",
+      "headline": "Name someone to own the inbox",
+      "body": "Roster one person to clear new enquiries before knocking off each day, and to own the inbox on Mondays, when first replies take 3.0 hrs."
+    }
+  ]
 }
