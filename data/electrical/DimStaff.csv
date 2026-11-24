@@ -1,11 +1,11 @@
-StaffKey,FirstName,Role,IsLicensed,IsField,IsApprentice,SortOrder,StartDate
-ST01,Dave,Owner / master electrician,True,True,False,1,2025-07-01
-ST02,Liam,Electrician,True,True,False,2,2025-07-01
-ST03,Jake,Electrician,True,True,False,3,2025-07-01
-ST04,Mitch,Electrician,True,True,False,4,2025-07-01
-ST05,Ravi,Electrician,True,True,False,5,2025-07-01
-ST06,Connor,Electrician,True,True,False,6,2025-07-01
-ST07,Hamish,Electrician,True,True,False,7,2025-07-01
-ST08,Josh,Apprentice (3rd year),False,True,True,8,2025-07-01
-ST09,Ella,Apprentice (1st year),False,True,True,9,2025-07-01
-ST10,Kerry,Office admin,False,False,False,10,2025-07-01
+StaffKey,FirstName,Role,IsLicensed,IsField,IsApprentice,StaffGroup,SortOrder,StartDate
+ST01,Dave,Owner / master electrician,True,True,False,Licensed electrician,1,2025-07-01
+ST02,Liam,Electrician,True,True,False,Licensed electrician,2,2025-07-01
+ST03,Jake,Electrician,True,True,False,Licensed electrician,3,2025-07-01
+ST04,Mitch,Electrician,True,True,False,Licensed electrician,4,2025-07-01
+ST05,Ravi,Electrician,True,True,False,Licensed electrician,5,2025-07-01
+ST06,Connor,Electrician,True,True,False,Licensed electrician,6,2025-07-01
+ST07,Hamish,Electrician,True,True,False,Licensed electrician,7,2025-07-01
+ST08,Josh,Apprentice (3rd year),False,True,True,Apprentice,8,2025-07-01
+ST09,Ella,Apprentice (1st year),False,True,True,Apprentice,9,2025-07-01
+ST10,Kerry,Office admin,False,False,False,Office,10,2025-07-01

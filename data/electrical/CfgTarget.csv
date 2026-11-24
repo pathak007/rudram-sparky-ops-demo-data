@@ -12,3 +12,9 @@ Est vs Actual Hours %,0.05,Lower,0.05,,,ratio,Jobs finish within 5% of the estim
 Backlog Days,6.0,Band,1.0,3.0,8.0,days,3 to 8 days of work booked ahead,Everyday,11
 Average Job Value,550.0,Higher,50.0,,,AUD,$550 average job,Everyday,12
 Overdue Invoices,15.0,Lower,5.0,,,count,No more than 15 invoices overdue,Everyday,13
+Travel Share %,0.15,Lower,0.01,,,ratio,Less than 15% of paid time on the road,Everyday,14
+Overtime Hours,20.0,Lower,5.0,,,hours,"Under 20 hours of overtime a week, across the team",Everyday,15
+Jobs per Electrician per Day,2.5,Higher,0.2,,,decimal,2.5 jobs per electrician per day,Everyday,16
+First-Time Fix %,0.93,Higher,0.02,,,ratio,Fixed first time on 93 in 100 jobs,Everyday,17
+Average Rating,4.5,Higher,0.2,,,decimal,4.5 stars or better from customers,Everyday,18
+Compliance Overdue,2.0,Lower,2.0,,,count,No more than 2 Notices of Completion overdue,Everyday,19

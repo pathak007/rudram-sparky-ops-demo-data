@@ -25,5 +25,15 @@ Backlog,"Days of work already booked: the estimated hours still to do on open jo
 On-time arrival,Share of first visits where the electrician arrived within 30 minutes of the booked start time.,Jobs & Schedule,24
 Estimated vs actual hours,"How far actual on-site hours ran over (+) or under (-) the estimate, for completed jobs. Hours are person-hours, so an apprentice's time counts too.",Jobs & Schedule,25
 Jobs by suburb,Completed jobs in the last 12 weeks by suburb.,Jobs & Schedule,26
-Opening book,Jobs already booked in the old system when the job system went live on 1 Jul 2025.,Jobs & Schedule,27
-Synthetic data,Tuart Line Electrical is a fictional business. Every number is simulated and updates daily. No real customer data is used.,All,28
+Team & Utilisation,"Hours come from timesheets: available hours are the rostered hours (7.6 a day), on-site hours are time at jobs, and paid hours include travel, workshop time and overtime.",Team & Utilisation,27
+Travel share,Travel hours as a share of paid hours for the field team. Time on the road is paid but can't be billed.,Team & Utilisation,28
+Overtime hours,"Paid hours over the 7.6-hour standard day, added up across the field team.",Team & Utilisation,29
+Jobs per electrician per day,"Job visits led by a licensed electrician, divided by the days they were rostered on. Apprentices work alongside, so they aren't counted.",Team & Utilisation,30
+Licensed vs apprentice,On-site hours split between licensed electricians (including the owner's days on the tools) and apprentices.,Team & Utilisation,31
+Callback rate by electrician,"Callbacks booked in the last 12 weeks, counted against the electrician who led the original job, as a share of the jobs they completed.",Quality & Compliance,32
+First-time fix,"Completed jobs that needed no unplanned return visit, for example to fit parts that weren't on hand. Planned second visits (rough-in, then fit-off) still count as fixed first time.",Quality & Compliance,33
+Average rating,The average star rating (1 to 5) from customers who rated a job that week.,Quality & Compliance,34
+Notice of Completion overdue,"Completed jobs that need a Notice of Completion (WA) which hasn't been lodged within 3 days, as at yesterday.",Quality & Compliance,35
+Test and tag recalls,"Customers whose next test and tag falls due in the next 30 days, from their most recent test.",Quality & Compliance,36
+Opening book,Jobs already booked in the old system when the job system went live on 1 Jul 2025.,Jobs & Schedule,37
+Synthetic data,Tuart Line Electrical is a fictional business. Every number is simulated and updates daily. No real customer data is used.,All,38

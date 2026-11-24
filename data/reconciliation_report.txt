@@ -1,4 +1,4 @@
-Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data · updated daily  |  report week 2026-11-16 to 2026-11-22  |  as at 2026-11-22  |  generated 2026-11-23 19:53
+Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data · updated daily  |  report week 2026-11-16 to 2026-11-22  |  as at 2026-11-23  |  generated 2026-11-24 09:58
 
 ==============================================================================
 1. THIS WEEK  ·  Is the work flowing?
@@ -16,8 +16,13 @@ Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data 
        Average Job Value                    $600   last week       $618   On target
        Quotes Sent                            52   last week         54   
        Quote Win Rate (Value)                56%   last week        39%   
+       Travel Share %                        14%   last week        15%   On target
+       Overtime Hours                   30.7 hrs   last week   23.4 hrs   Off target
+       Jobs per Electrician per Day          2.7   last week        2.6   On target
+       First-Time Fix %                      94%   last week        94%   On target
+       Average Rating                        4.6   last week        4.4   On target
   TILE Average Job Value                    $600   (money tile 1 of 3)
-  TILE Overdue Invoices (as at)               18   Watch  (money tile 3 of 3, a count)
+  TILE Overdue Invoices (as at)               16   Watch  (money tile 3 of 3, a count)
 
   Goals over the last 12 weeks (weeks on target, best week, this week):
     Everyday 60 jobs finished a week                                         9/12   best        74   now        71
@@ -31,6 +36,11 @@ Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data 
     Everyday On site within 30 minutes of the booked time, 85% of the time   8/12   best       91%   now       89%
     Everyday Jobs finish within 5% of the estimate                           9/12   best       -2%   now        4%
     Everyday $550 average job                                               10/12   best      $667   now      $600
+    Everyday Less than 15% of paid time on the road                          8/12   best       13%   now       14%
+    Everyday Under 20 hours of overtime a week, across the team              9/12   best   7.3 hrs   now  30.7 hrs
+    Everyday 2.5 jobs per electrician per day                                8/12   best       3.0   now       2.7
+    Everyday Fixed first time on 93 in 100 jobs                              7/12   best       97%   now       94%
+    Everyday 4.5 stars or better from customers                              5/12   best       4.6   now       4.6
   12-week trend, jobs completed: 08-31 61, 09-07 63, 09-14 60, 09-21 62, 09-28 49, 10-05 70, 10-12 56, 10-19 56, 10-26 62, 11-02 74, 11-09 69, 11-16 71
 
 ==============================================================================
@@ -38,34 +48,56 @@ Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data 
 ==============================================================================
   Enquiries by source:   Google / website 312, Repeat customer 262, Lead site 248, Referral 149, Property manager 132, Builder 94
   Enquiries by job type: Power points & lighting 269, Fault finding 237, Ceiling fans & aircon circuits 159, Smoke alarms 138, Switchboard upgrade 109, EV charger install 94, Solar & battery related 91, Data & cabling 53, Test & tag 47
-  Response time bands:   Under 1 hr 368, 1 to 2 hrs 251, 2 to 4 hrs 113, 4 to 8 hrs 25, 8 to 24 hrs 293, Over 24 hrs 129, No reply yet 18
+  Response time bands:   Under 1 hr 368, 1 to 2 hrs 251, 2 to 4 hrs 113, 4 to 8 hrs 25, 8 to 24 hrs 296, Over 24 hrs 144, No reply yet 0
   Median response Mondays 3.0 hrs vs Tue to Fri 1.3 hrs; over target: after 3pm 79%, 7am to 3pm 9%
   Quote turnaround: average 3.6 days, 0 days 63, 1 days 61, 2 days 76, 3 days 64, 4 days 51, 5 days 68, 6 days 70, 7 days 25
   Win rate by job type:  Fault finding 60%, Ceiling fans & aircon circuits 48%, Test & tag 48%, Data & cabling 41%, Switchboard upgrade 41%, EV charger install 38%, Power points & lighting 37%, Solar & battery related 33%, Smoke alarms 29%
   Win rate by source:    Referral 54%, Repeat customer 49%, Builder 40%, Property manager 39%, Google / website 38%, Lead site 23%
   Win rate when answered within 4 hrs 51% (326 decided) vs slower 19% (166 decided)
   Quote value won $158.3K vs lost $230.7K  (money tile 2 of 3)
-  Open quotes ageing (as at): 0 to 7 days 41, 8 to 14 days 22, 15 to 30 days 22, Over 30 days 18  ·  103 open worth $89.6K
+  Open quotes ageing (as at): 0 to 7 days 43, 8 to 14 days 21, 15 to 30 days 21, Over 30 days 18  ·  103 open worth $92.4K
   Lost reasons:          No reply from customer 90, Price 81, Went with another electrician 63, Job postponed or cancelled 34, We were too slow to get back 26
 
 ==============================================================================
 3. JOBS & SCHEDULE  ·  Are jobs getting done on time?
 ==============================================================================
-  Open jobs by status (as at): Scheduled 49, Booked, not yet scheduled 32, On hold, waiting on parts 6, On hold, waiting on customer 4, In progress 2
-  Backlog 9.0 days (358 hrs at 40 hrs a day) · unassigned 32 · compliance overdue 7
+  Open jobs by status (as at): Scheduled 49, Booked, not yet scheduled 30, On hold, waiting on parts 7, On hold, waiting on customer 5, In progress 2
+  Backlog 8.9 days (357 hrs at 40 hrs a day) · unassigned 30 · compliance overdue 7
   On-time arrival: this week 89%, last 12 weeks 85%
   Actual vs estimated hours by job type: Switchboard upgrade +25%, Fault finding +10%, Commercial maintenance visit +7%, Solar & battery related +2%, Power points & lighting -2%, Ceiling fans & aircon circuits -2%, Smoke alarms -4%, EV charger install -6%, Test & tag -8%, Data & cabling -13%
   Jobs by suburb (top 8): Dianella 42, Bayswater 41, Morley 41, Beechboro 39, Malaga 34, Mirrabooka 33, Balcatta 32, Scarborough 29
 
 ==============================================================================
+4. TEAM & UTILISATION  ·  Is the team busy on the right things?  (last 12 weeks)
+==============================================================================
+  Dave     on site    126 of   182 hrs available  util 69%  travel 14%  overtime 0.6 hrs  2.4 jobs a day
+  Liam     on site    274 of   372 hrs available  util 74%  travel 17%  overtime 16.1 hrs  2.7 jobs a day
+  Jake     on site    291 of   372 hrs available  util 78%  travel 15%  overtime 19.8 hrs  2.6 jobs a day
+  Mitch    on site    353 of   448 hrs available  util 79%  travel 16%  overtime 34.3 hrs  2.7 jobs a day
+  Ravi     on site    352 of   448 hrs available  util 79%  travel 14%  overtime 28.6 hrs  2.5 jobs a day
+  Connor   on site    366 of   448 hrs available  util 82%  travel 15%  overtime 41.9 hrs  2.6 jobs a day
+  Hamish   on site    362 of   448 hrs available  util 81%  travel 14%  overtime 39.0 hrs  2.3 jobs a day
+  Josh     on site    260 of   448 hrs available  util 58%  travel 14%  overtime 8.8 hrs
+  Ella     on site    255 of   448 hrs available  util 57%  travel 12%  overtime 4.8 hrs
+  On-site hours by group: Apprentice 516 (20%), Licensed electrician 2,125 (80%)
+
+==============================================================================
+5. QUALITY & COMPLIANCE  ·  Are we doing it right first time?
+==============================================================================
+  Callback rate by job type (12 weeks): Fault finding 8.3%, Solar & battery related 7.9%, EV charger install 7.1%, Ceiling fans & aircon circuits 2.9%, Power points & lighting 1.1%, Commercial maintenance visit 0.0%, Data & cabling 0.0%, Smoke alarms 0.0%, Switchboard upgrade 0.0%, Test & tag 0.0%
+  Callback rate by electrician (12 weeks): Connor 8.9%, Ravi 4.1%, Jake 3.8%, Dave 3.8%, Mitch 2.3%, Hamish 1.8%, Liam 0.0%
+  Average rating by week: 08-31 4.4, 09-07 4.5, 09-14 4.4, 09-21 4.4, 09-28 4.6, 10-05 4.6, 10-12 4.6, 10-19 4.4, 10-26 4.5, 11-02 4.5, 11-09 4.4, 11-16 4.6
+  Notices of Completion overdue (as at): 7  ·  test and tag recalls due in the next 30 days: 7
+
+==============================================================================
 RECONCILIATION RULES R1 to R7
 ==============================================================================
-  [PASS] R1 Every Won quote has exactly one job; every direct booking has one job; no job has a value without a won quote, direct booking, contract or the go-live opening book (1170 won quotes, 2960 direct bookings, 4308 valued jobs; problems 0/0/0)
-  [PASS] R2 Arrival >= scheduled start minus 1 hour; completed date >= arrival (4420 arrivals; problems 0/0)
-  [PASS] R3 Sum of labour on-site hours per completed job = ActualHours (4412 jobs, max diff 0.000)
-  [PASS] R4 Per staff per day: on-site + travel <= paid hours, and labour lines match the timesheet (2769 staff-days; on-site match True, travel within True, within paid True)
+  [PASS] R1 Every Won quote has exactly one job; every direct booking has one job; no job has a value without a won quote, direct booking, contract or the go-live opening book (1172 won quotes, 2971 direct bookings, 4318 valued jobs; problems 0/0/0)
+  [PASS] R2 Arrival >= scheduled start minus 1 hour; completed date >= arrival (4434 arrivals; problems 0/0)
+  [PASS] R3 Sum of labour on-site hours per completed job = ActualHours (4425 jobs, max diff 0.000)
+  [PASS] R4 Per staff per day: on-site + travel <= paid hours, and labour lines match the timesheet (2776 staff-days; on-site match True, travel within True, within paid True)
   [PASS] R5 Every callback points to a completed, earlier parent job (144 callbacks; problems 0)
-  [PASS] R6 Compliance lodged only where required, never before completion (2574 lodged; problems 0)
+  [PASS] R6 Compliance lodged only where required, never before completion (2582 lodged; problems 0)
   [PASS] R7 Nothing already published changes (append-only check against the previous files) (checked 8 tables against published)
 
 ==============================================================================
@@ -75,10 +107,10 @@ STORY CHECKS (the planted patterns must stay visible; warnings, not failures)
   Callback rate by lead electrician: Connor 9.3%, Dave 3.2%, Mitch 2.9%, Hamish 2.2%, Jake 2.1%, Ravi 2.0%, Liam 1.8%
   Job type furthest over estimate (all history): Switchboard upgrade +25%
   Fans & aircon share of enquiries: summer 27% vs winter 7%
-  Commercial enquiries a week: May to Jun 24.8 vs rest of year 15.5
+  Commercial enquiries a week: May to Jun 24.8 vs rest of year 15.3
   Team utilisation, last 12 weeks: 73%
-  Work completed in the last 12 months: $1,694.3K ex GST
-  Jobs on hold for parts now: 6
+  Work completed in the last 12 months: $1,700.8K ex GST
+  Jobs on hold for parts now: 7
   No story warnings
 
   Metrics written to data-repo/data/metrics.json

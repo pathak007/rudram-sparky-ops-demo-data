@@ -1,11 +1,11 @@
 {
   "industry": "electrical",
   "business": "Tuart Line Electrical Pty Ltd",
-  "as_at": "2026-11-22",
+  "as_at": "2026-11-23",
   "report_week_start": "2026-11-16",
   "report_week_end": "2026-11-22",
   "trend_start": "2026-08-31",
-  "generated": "2026-11-23 19:53",
+  "generated": "2026-11-24 09:58",
   "rules_failed": [],
   "kpis": {
     "Jobs Completed": {
@@ -178,51 +178,130 @@
       "display": "56%",
       "previous_display": "39%"
     },
+    "Travel Share %": {
+      "value": 0.1426,
+      "previous": 0.1481,
+      "delta": -0.0055,
+      "status": "On target",
+      "display": "14%",
+      "previous_display": "15%",
+      "goal": "Less than 15% of paid time on the road",
+      "goal_kind": "Everyday",
+      "weeks_on_target": 8.0,
+      "best_week": 0.1259,
+      "best_week_display": "13%",
+      "is_best_week": false
+    },
+    "Overtime Hours": {
+      "value": 30.7,
+      "previous": 23.4,
+      "delta": 7.3,
+      "status": "Off target",
+      "display": "30.7 hrs",
+      "previous_display": "23.4 hrs",
+      "goal": "Under 20 hours of overtime a week, across the team",
+      "goal_kind": "Everyday",
+      "weeks_on_target": 9.0,
+      "best_week": 7.35,
+      "best_week_display": "7.3 hrs",
+      "is_best_week": false
+    },
+    "Jobs per Electrician per Day": {
+      "value": 2.7188,
+      "previous": 2.5625,
+      "delta": 0.1562,
+      "status": "On target",
+      "display": "2.7",
+      "previous_display": "2.6",
+      "goal": "2.5 jobs per electrician per day",
+      "goal_kind": "Everyday",
+      "weeks_on_target": 8.0,
+      "best_week": 3.0,
+      "best_week_display": "3.0",
+      "is_best_week": false
+    },
+    "First-Time Fix %": {
+      "value": 0.9437,
+      "previous": 0.942,
+      "delta": 0.0016,
+      "status": "On target",
+      "display": "94%",
+      "previous_display": "94%",
+      "goal": "Fixed first time on 93 in 100 jobs",
+      "goal_kind": "Everyday",
+      "weeks_on_target": 7.0,
+      "best_week": 0.9714,
+      "best_week_display": "97%",
+      "is_best_week": false
+    },
+    "Average Rating": {
+      "value": 4.625,
+      "previous": 4.4091,
+      "delta": 0.2159,
+      "status": "On target",
+      "display": "4.6",
+      "previous_display": "4.4",
+      "goal": "4.5 stars or better from customers",
+      "goal_kind": "Everyday",
+      "weeks_on_target": 5.0,
+      "best_week": 4.6471,
+      "best_week_display": "4.6",
+      "is_best_week": false
+    },
     "Overdue Invoices": {
-      "value": 18.0,
+      "value": 16.0,
       "status": "Watch",
-      "display": "18",
+      "display": "16",
       "as_at": true,
       "goal": "No more than 15 invoices overdue",
       "goal_kind": "Everyday"
     },
     "Backlog Days": {
-      "value": 8.9512,
-      "display": "9.0 days",
+      "value": 8.935,
+      "display": "8.9 days",
       "as_at": true,
       "goal": "3 to 8 days of work booked ahead",
       "goal_kind": "Everyday",
       "status": "Watch"
+    },
+    "Compliance Overdue": {
+      "value": 7.0,
+      "display": "7",
+      "as_at": true,
+      "goal": "No more than 2 Notices of Completion overdue",
+      "goal_kind": "Everyday",
+      "status": "Off target"
     }
   },
   "snapshot": {
-    "Backlog Days": 8.9512,
-    "Backlog Hours": 358.05,
-    "Unassigned Jobs": 32.0,
+    "Backlog Days": 8.935,
+    "Backlog Hours": 357.4,
+    "Unassigned Jobs": 30.0,
     "Open Quotes": 103.0,
-    "Open Quote Value": 89575.0,
+    "Open Quote Value": 92415.0,
     "Stale Quotes": 18.0,
-    "Overdue Invoices": 18.0,
+    "Overdue Invoices": 16.0,
     "Compliance Overdue": 7.0,
     "jobs_by_status": {
       "Scheduled": 49,
-      "Booked, not yet scheduled": 32,
-      "On hold, waiting on parts": 6,
-      "On hold, waiting on customer": 4,
+      "Booked, not yet scheduled": 30,
+      "On hold, waiting on parts": 7,
+      "On hold, waiting on customer": 5,
       "In progress": 2
     },
     "quote_ageing": {
-      "0 to 7 days": 41,
-      "8 to 14 days": 22,
-      "15 to 30 days": 22,
+      "0 to 7 days": 43,
+      "8 to 14 days": 21,
+      "15 to 30 days": 21,
       "Over 30 days": 18
     },
     "quote_ageing_value": {
-      "0 to 7 days": 30010.0,
-      "8 to 14 days": 21205.0,
-      "15 to 30 days": 22030.0,
-      "Over 30 days": 16330.0
-    }
+      "0 to 7 days": 33970.0,
+      "8 to 14 days": 19460.0,
+      "15 to 30 days": 20760.0,
+      "Over 30 days": 18225.0
+    },
+    "Test and Tag Due 30 Days": 7.0
   },
   "trend": [
     {
@@ -323,7 +402,12 @@
     "On-Time Arrival %": 0.8537,
     "Est vs Actual Hours %": 0.0244,
     "Team Utilisation %": 0.7299,
-    "Callback Rate": 0.0359
+    "Callback Rate": 0.0359,
+    "Travel Share %": 0.1447,
+    "Overtime Hours": 193.85,
+    "Jobs per Electrician per Day": 2.5503,
+    "First-Time Fix %": 0.9256,
+    "Average Rating": 4.496
   },
   "enquiries_quotes": {
     "by_source": {
@@ -350,9 +434,9 @@
       "1 to 2 hrs": 251,
       "2 to 4 hrs": 113,
       "4 to 8 hrs": 25,
-      "8 to 24 hrs": 293,
-      "Over 24 hrs": 129,
-      "No reply yet": 18
+      "8 to 24 hrs": 296,
+      "Over 24 hrs": 144,
+      "No reply yet": 0
     },
     "monday_median_hrs": 3.01,
     "tue_fri_median_hrs": 1.26,
@@ -441,17 +525,135 @@
       "Cannington": 4
     }
   },
+  "team": {
+    "by_person": {
+      "Dave": {
+        "on_site_hours": 125.5,
+        "available_hours": 182.4,
+        "utilisation": 0.688,
+        "travel_share": 0.1388,
+        "overtime_hours": 0.55,
+        "jobs_per_day": 2.4167
+      },
+      "Liam": {
+        "on_site_hours": 274.45,
+        "available_hours": 372.4,
+        "utilisation": 0.737,
+        "travel_share": 0.1665,
+        "overtime_hours": 16.15,
+        "jobs_per_day": 2.6735
+      },
+      "Jake": {
+        "on_site_hours": 291.2,
+        "available_hours": 372.4,
+        "utilisation": 0.782,
+        "travel_share": 0.1475,
+        "overtime_hours": 19.8,
+        "jobs_per_day": 2.6327
+      },
+      "Mitch": {
+        "on_site_hours": 353.4,
+        "available_hours": 448.4,
+        "utilisation": 0.7881,
+        "travel_share": 0.1553,
+        "overtime_hours": 34.3,
+        "jobs_per_day": 2.7119
+      },
+      "Ravi": {
+        "on_site_hours": 352.2,
+        "available_hours": 448.4,
+        "utilisation": 0.7855,
+        "travel_share": 0.1404,
+        "overtime_hours": 28.6,
+        "jobs_per_day": 2.4576
+      },
+      "Connor": {
+        "on_site_hours": 366.05,
+        "available_hours": 448.4,
+        "utilisation": 0.8163,
+        "travel_share": 0.1517,
+        "overtime_hours": 41.85,
+        "jobs_per_day": 2.5763
+      },
+      "Hamish": {
+        "on_site_hours": 362.1,
+        "available_hours": 448.4,
+        "utilisation": 0.8075,
+        "travel_share": 0.1406,
+        "overtime_hours": 39.0,
+        "jobs_per_day": 2.339
+      },
+      "Josh": {
+        "on_site_hours": 260.15,
+        "available_hours": 448.4,
+        "utilisation": 0.5802,
+        "travel_share": 0.1433,
+        "overtime_hours": 8.8,
+        "jobs_per_day": null
+      },
+      "Ella": {
+        "on_site_hours": 255.4,
+        "available_hours": 448.4,
+        "utilisation": 0.5696,
+        "travel_share": 0.1174,
+        "overtime_hours": 4.8,
+        "jobs_per_day": null
+      }
+    },
+    "on_site_by_group": {
+      "Apprentice": 515.55,
+      "Licensed electrician": 2124.9
+    }
+  },
+  "quality": {
+    "callback_rate_by_job_type": {
+      "Commercial maintenance visit": 0.0,
+      "Data & cabling": 0.0,
+      "EV charger install": 0.0714,
+      "Ceiling fans & aircon circuits": 0.0286,
+      "Fault finding": 0.0833,
+      "Power points & lighting": 0.011,
+      "Smoke alarms": 0.0,
+      "Switchboard upgrade": 0.0,
+      "Solar & battery related": 0.0789,
+      "Test & tag": 0.0
+    },
+    "callback_rate_by_electrician": {
+      "Dave": 0.0377,
+      "Liam": 0.0,
+      "Jake": 0.0385,
+      "Mitch": 0.0229,
+      "Ravi": 0.041,
+      "Connor": 0.0887,
+      "Hamish": 0.018
+    },
+    "rating_by_week": {
+      "2026-08-31": 4.4286,
+      "2026-09-07": 4.45,
+      "2026-09-14": 4.4444,
+      "2026-09-21": 4.3684,
+      "2026-09-28": 4.6471,
+      "2026-10-05": 4.5862,
+      "2026-10-12": 4.6087,
+      "2026-10-19": 4.375,
+      "2026-10-26": 4.4737,
+      "2026-11-02": 4.5217,
+      "2026-11-09": 4.4091,
+      "2026-11-16": 4.625
+    },
+    "test_and_tag_due_30_days": 7
+  },
   "story": {
     "callback_rate_by_lead": {
       "Dave": 0.0324,
-      "Liam": 0.0182,
-      "Jake": 0.0209,
+      "Liam": 0.0181,
+      "Jake": 0.0208,
       "Mitch": 0.0289,
       "Ravi": 0.0199,
-      "Connor": 0.0934,
-      "Hamish": 0.0223
+      "Connor": 0.0931,
+      "Hamish": 0.0222
     },
     "utilisation_12wk": 0.7299,
-    "turnover_12m": 1694336.72
+    "turnover_12m": 1700762.66
   }
 }
