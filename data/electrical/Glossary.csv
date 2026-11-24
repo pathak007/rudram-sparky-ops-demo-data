@@ -1,7 +1,7 @@
 Term,Definition,Screen,SortOrder
 This week,"The last full week, Monday to Sunday. Weekly tiles change on Monday mornings, when a new week closes.",All,1
-Last 12 weeks,The charts on Enquiries & Quotes and Jobs & Schedule cover the 12 full weeks up to this week.,All,2
-As at,"Some numbers are a snapshot as at yesterday: backlog, jobs by status, unassigned jobs, open quotes and overdue invoices. They move every day.",All,3
+Last 12 weeks,The charts on every page except This Week cover the 12 full weeks up to this week.,All,2
+As at,"Some numbers are a snapshot as at yesterday: backlog, jobs by status, unassigned jobs, open quotes, overdue invoices, overdue Notices of Completion and test and tag due. They move every day.",All,3
 Goal,What a good week looks like. Everyday goals are hit most good weeks; stretch goals are where the business is working to improve.,All,4
 On target / Watch / Off target,"On target: the goal is met. Watch: close, within a small margin. Off target: further away. A band goal can also be below or above its band.",All,5
 Best week,The best week in the last 12 for that number. The week to beat.,This Week,6

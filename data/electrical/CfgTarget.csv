@@ -1,20 +1,20 @@
 Measure,Target,Direction,WatchBand,BandLow,BandHigh,Unit,GoalText,GoalKind,SortOrder
 Jobs Completed,60.0,Higher,6.0,,,count,60 jobs finished a week,Everyday,1
 Enquiries,90.0,Higher,9.0,,,count,90 new enquiries a week,Everyday,2
-Median First Response (hrs),2.0,Lower,0.5,,,hours,Half our customers hear back within 2 hours,Everyday,3
+Median First Response (hrs),2.0,Lower,0.5,,,hours,Half hear back within 2 hours,Everyday,3
 % Responded Within Target,0.8,Higher,0.05,,,ratio,8 in 10 enquiries answered within 4 hours,Stretch,4
 Quote Win Rate,0.45,Higher,0.05,,,ratio,Win nearly 1 in 2 quotes,Stretch,5
 Quote Turnaround (days),3.0,Lower,0.5,,,days,Quotes out within 3 days,Stretch,6
-Team Utilisation %,0.75,Band,0.03,0.7,0.82,ratio,"Busy, not burnt out: 70% to 82% of the day on the tools",Everyday,7
-Callback Rate,0.03,Lower,0.01,,,ratio,Fewer than 3 in 100 jobs come back,Everyday,8
-On-Time Arrival %,0.85,Higher,0.05,,,ratio,"On site within 30 minutes of the booked time, 85% of the time",Everyday,9
+Team Utilisation %,0.75,Band,0.03,0.7,0.82,ratio,70% to 82% of the day on the tools,Everyday,7
+Callback Rate,0.03,Lower,0.01,,,ratio,Under 3 in 100 jobs come back,Everyday,8
+On-Time Arrival %,0.85,Higher,0.05,,,ratio,85% on site within 30 mins of booking,Everyday,9
 Est vs Actual Hours %,0.05,Lower,0.05,,,ratio,Jobs finish within 5% of the estimate,Everyday,10
 Backlog Days,6.0,Band,1.0,3.0,8.0,days,3 to 8 days of work booked ahead,Everyday,11
 Average Job Value,550.0,Higher,50.0,,,AUD,$550 average job,Everyday,12
 Overdue Invoices,15.0,Lower,5.0,,,count,No more than 15 invoices overdue,Everyday,13
 Travel Share %,0.15,Lower,0.01,,,ratio,Less than 15% of paid time on the road,Everyday,14
-Overtime Hours,20.0,Lower,5.0,,,hours,"Under 20 hours of overtime a week, across the team",Everyday,15
+Overtime Hours,20.0,Lower,5.0,,,hours,"Under 20 hrs overtime a week, whole team",Everyday,15
 Jobs per Electrician per Day,2.5,Higher,0.2,,,decimal,2.5 jobs per electrician per day,Everyday,16
 First-Time Fix %,0.93,Higher,0.02,,,ratio,Fixed first time on 93 in 100 jobs,Everyday,17
 Average Rating,4.5,Higher,0.2,,,decimal,4.5 stars or better from customers,Everyday,18
-Compliance Overdue,2.0,Lower,2.0,,,count,No more than 2 Notices of Completion overdue,Everyday,19
+Compliance Overdue,2.0,Lower,2.0,,,count,No more than 2 overdue,Everyday,19

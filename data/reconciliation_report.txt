@@ -1,4 +1,4 @@
-Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data · updated daily  |  report week 2026-11-16 to 2026-11-22  |  as at 2026-11-23  |  generated 2026-11-24 09:58
+Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data · updated daily  |  report week 2026-11-16 to 2026-11-22  |  as at 2026-11-23  |  generated 2026-11-24 10:06
 
 ==============================================================================
 1. THIS WEEK  ·  Is the work flowing?
@@ -27,17 +27,17 @@ Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data 
   Goals over the last 12 weeks (weeks on target, best week, this week):
     Everyday 60 jobs finished a week                                         9/12   best        74   now        71
     Everyday 90 new enquiries a week                                         9/12   best       122   now       110
-    Everyday Half our customers hear back within 2 hours                     6/12   best   1.6 hrs   now   1.8 hrs
+    Everyday Half hear back within 2 hours                                   6/12   best   1.6 hrs   now   1.8 hrs
     Stretch  8 in 10 enquiries answered within 4 hours                       0/12   best       70%   now       57%
     Stretch  Win nearly 1 in 2 quotes                                        4/12   best       53%   now       53%
     Stretch  Quotes out within 3 days                                        0/12   best  3.2 days   now  3.4 days
-    Everyday Busy, not burnt out: 70% to 82% of the day on the tools         9/12   best       75%   now       83%
-    Everyday Fewer than 3 in 100 jobs come back                              4/12   best        2%   now        7%
-    Everyday On site within 30 minutes of the booked time, 85% of the time   8/12   best       91%   now       89%
+    Everyday 70% to 82% of the day on the tools                              9/12   best       75%   now       83%
+    Everyday Under 3 in 100 jobs come back                                   4/12   best        2%   now        7%
+    Everyday 85% on site within 30 mins of booking                           8/12   best       91%   now       89%
     Everyday Jobs finish within 5% of the estimate                           9/12   best       -2%   now        4%
     Everyday $550 average job                                               10/12   best      $667   now      $600
     Everyday Less than 15% of paid time on the road                          8/12   best       13%   now       14%
-    Everyday Under 20 hours of overtime a week, across the team              9/12   best   7.3 hrs   now  30.7 hrs
+    Everyday Under 20 hrs overtime a week, whole team                        9/12   best   7.3 hrs   now  30.7 hrs
     Everyday 2.5 jobs per electrician per day                                8/12   best       3.0   now       2.7
     Everyday Fixed first time on 93 in 100 jobs                              7/12   best       97%   now       94%
     Everyday 4.5 stars or better from customers                              5/12   best       4.6   now       4.6
