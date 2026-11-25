@@ -5,7 +5,7 @@ Median First Response (hrs),2.0,Lower,0.5,,,hours,Half hear back within 2 hours,
 % Responded Within Target,0.8,Higher,0.05,,,ratio,8 in 10 enquiries answered within 4 hours,Stretch,4
 Quote Win Rate,0.45,Higher,0.05,,,ratio,Win nearly 1 in 2 quotes,Stretch,5
 Quote Turnaround (days),3.0,Lower,0.5,,,days,Quotes out within 3 days,Stretch,6
-Team Utilisation %,0.75,Band,0.03,0.7,0.82,ratio,70% to 82% of the day on the tools,Everyday,7
+Team Utilisation %,0.75,Band,0.03,0.7,0.82,ratio,70% to 82% on the tools,Everyday,7
 Callback Rate,0.03,Lower,0.01,,,ratio,Under 3 in 100 jobs come back,Everyday,8
 On-Time Arrival %,0.85,Higher,0.05,,,ratio,85% on site within 30 mins of booking,Everyday,9
 Est vs Actual Hours %,0.05,Lower,0.05,,,ratio,Jobs finish within 5% of the estimate,Everyday,10

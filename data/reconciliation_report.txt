@@ -1,4 +1,4 @@
-Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data · updated daily  |  report week 2026-11-16 to 2026-11-22  |  as at 2026-11-23  |  generated 2026-11-24 10:06
+Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data · updated daily  |  report week 2026-11-16 to 2026-11-22  |  as at 2026-11-24  |  generated 2026-11-25 11:00
 
 ==============================================================================
 1. THIS WEEK  ·  Is the work flowing?
@@ -22,7 +22,7 @@ Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data 
        First-Time Fix %                      94%   last week        94%   On target
        Average Rating                        4.6   last week        4.4   On target
   TILE Average Job Value                    $600   (money tile 1 of 3)
-  TILE Overdue Invoices (as at)               16   Watch  (money tile 3 of 3, a count)
+  TILE Overdue Invoices (as at)               17   Watch  (money tile 3 of 3, a count)
 
   Goals over the last 12 weeks (weeks on target, best week, this week):
     Everyday 60 jobs finished a week                                         9/12   best        74   now        71
@@ -31,7 +31,7 @@ Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data 
     Stretch  8 in 10 enquiries answered within 4 hours                       0/12   best       70%   now       57%
     Stretch  Win nearly 1 in 2 quotes                                        4/12   best       53%   now       53%
     Stretch  Quotes out within 3 days                                        0/12   best  3.2 days   now  3.4 days
-    Everyday 70% to 82% of the day on the tools                              9/12   best       75%   now       83%
+    Everyday 70% to 82% on the tools                                         9/12   best       75%   now       83%
     Everyday Under 3 in 100 jobs come back                                   4/12   best        2%   now        7%
     Everyday 85% on site within 30 mins of booking                           8/12   best       91%   now       89%
     Everyday Jobs finish within 5% of the estimate                           9/12   best       -2%   now        4%
@@ -55,14 +55,14 @@ Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data 
   Win rate by source:    Referral 54%, Repeat customer 49%, Builder 40%, Property manager 39%, Google / website 38%, Lead site 23%
   Win rate when answered within 4 hrs 51% (326 decided) vs slower 19% (166 decided)
   Quote value won $158.3K vs lost $230.7K  (money tile 2 of 3)
-  Open quotes ageing (as at): 0 to 7 days 43, 8 to 14 days 21, 15 to 30 days 21, Over 30 days 18  ·  103 open worth $92.4K
+  Open quotes ageing (as at): 0 to 7 days 44, 8 to 14 days 24, 15 to 30 days 22, Over 30 days 17  ·  107 open worth $98.0K
   Lost reasons:          No reply from customer 90, Price 81, Went with another electrician 63, Job postponed or cancelled 34, We were too slow to get back 26
 
 ==============================================================================
 3. JOBS & SCHEDULE  ·  Are jobs getting done on time?
 ==============================================================================
-  Open jobs by status (as at): Scheduled 49, Booked, not yet scheduled 30, On hold, waiting on parts 7, On hold, waiting on customer 5, In progress 2
-  Backlog 8.9 days (357 hrs at 40 hrs a day) · unassigned 30 · compliance overdue 7
+  Open jobs by status (as at): Scheduled 45, Booked, not yet scheduled 29, On hold, waiting on parts 6, On hold, waiting on customer 5, In progress 5
+  Backlog 8.7 days (347 hrs at 40 hrs a day) · unassigned 29 · compliance overdue 7
   On-time arrival: this week 89%, last 12 weeks 85%
   Actual vs estimated hours by job type: Switchboard upgrade +25%, Fault finding +10%, Commercial maintenance visit +7%, Solar & battery related +2%, Power points & lighting -2%, Ceiling fans & aircon circuits -2%, Smoke alarms -4%, EV charger install -6%, Test & tag -8%, Data & cabling -13%
   Jobs by suburb (top 8): Dianella 42, Bayswater 41, Morley 41, Beechboro 39, Malaga 34, Mirrabooka 33, Balcatta 32, Scarborough 29
@@ -92,12 +92,12 @@ Tuart Line Electrical Pty Ltd  |  Week of 16 Nov 2026 · demo on synthetic data 
 ==============================================================================
 RECONCILIATION RULES R1 to R7
 ==============================================================================
-  [PASS] R1 Every Won quote has exactly one job; every direct booking has one job; no job has a value without a won quote, direct booking, contract or the go-live opening book (1172 won quotes, 2971 direct bookings, 4318 valued jobs; problems 0/0/0)
-  [PASS] R2 Arrival >= scheduled start minus 1 hour; completed date >= arrival (4434 arrivals; problems 0/0)
-  [PASS] R3 Sum of labour on-site hours per completed job = ActualHours (4425 jobs, max diff 0.000)
-  [PASS] R4 Per staff per day: on-site + travel <= paid hours, and labour lines match the timesheet (2776 staff-days; on-site match True, travel within True, within paid True)
+  [PASS] R1 Every Won quote has exactly one job; every direct booking has one job; no job has a value without a won quote, direct booking, contract or the go-live opening book (1173 won quotes, 2979 direct bookings, 4329 valued jobs; problems 0/0/0)
+  [PASS] R2 Arrival >= scheduled start minus 1 hour; completed date >= arrival (4448 arrivals; problems 0/0)
+  [PASS] R3 Sum of labour on-site hours per completed job = ActualHours (4437 jobs, max diff 0.000)
+  [PASS] R4 Per staff per day: on-site + travel <= paid hours, and labour lines match the timesheet (2784 staff-days; on-site match True, travel within True, within paid True)
   [PASS] R5 Every callback points to a completed, earlier parent job (144 callbacks; problems 0)
-  [PASS] R6 Compliance lodged only where required, never before completion (2582 lodged; problems 0)
+  [PASS] R6 Compliance lodged only where required, never before completion (2587 lodged; problems 0)
   [PASS] R7 Nothing already published changes (append-only check against the previous files) (checked 8 tables against published)
 
 ==============================================================================
@@ -107,10 +107,10 @@ STORY CHECKS (the planted patterns must stay visible; warnings, not failures)
   Callback rate by lead electrician: Connor 9.3%, Dave 3.2%, Mitch 2.9%, Hamish 2.2%, Jake 2.1%, Ravi 2.0%, Liam 1.8%
   Job type furthest over estimate (all history): Switchboard upgrade +25%
   Fans & aircon share of enquiries: summer 27% vs winter 7%
-  Commercial enquiries a week: May to Jun 24.8 vs rest of year 15.3
+  Commercial enquiries a week: May to Jun 24.8 vs rest of year 15.4
   Team utilisation, last 12 weeks: 73%
-  Work completed in the last 12 months: $1,700.8K ex GST
-  Jobs on hold for parts now: 7
+  Work completed in the last 12 months: $1,702.0K ex GST
+  Jobs on hold for parts now: 6
   No story warnings
 
   Metrics written to data-repo/data/metrics.json
