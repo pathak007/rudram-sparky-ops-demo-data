@@ -6,8 +6,8 @@ SimStartDate,2025-07-01,date,First date of simulated history
 ReportWeekStart,2026-11-16,date,Monday of the last complete week
 ReportWeekEnd,2026-11-22,date,Sunday of the last complete week
 TrendStart,2026-08-31,date,First Monday of the trend window
-AsAtDate,2026-11-24,date,"Data is complete to this date; snapshots (backlog, open quotes, overdue) are as at this date"
-DataLastUpdated,2026-11-25 11:00,datetime,When this dataset was generated (Perth time)
+AsAtDate,2026-11-25,date,"Data is complete to this date; snapshots (backlog, open quotes, overdue) are as at this date"
+DataLastUpdated,2026-11-26 10:08,datetime,When this dataset was generated (Perth time)
 Industry,electrical,text,Profile used to generate the data
 Seed,67,int,Simulation seed
 TrendWeeks,12,weeks,Weeks shown in trend charts
