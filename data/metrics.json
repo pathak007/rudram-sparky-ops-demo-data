@@ -1,11 +1,11 @@
 {
   "industry": "electrical",
   "business": "Tuart Line Electrical Pty Ltd",
-  "as_at": "2026-11-25",
+  "as_at": "2026-11-26",
   "report_week_start": "2026-11-16",
   "report_week_end": "2026-11-22",
   "trend_start": "2026-08-31",
-  "generated": "2026-11-26 10:08",
+  "generated": "2026-11-27 10:07",
   "rules_failed": [],
   "kpis": {
     "Jobs Completed": {
@@ -249,24 +249,24 @@
       "is_best_week": false
     },
     "Overdue Invoices": {
-      "value": 19.0,
-      "status": "Watch",
-      "display": "19",
+      "value": 23.0,
+      "status": "Off target",
+      "display": "23",
       "as_at": true,
       "goal": "No more than 15 invoices overdue",
       "goal_kind": "Everyday"
     },
     "Backlog Days": {
-      "value": 8.7438,
-      "display": "8.7 days",
+      "value": 8.3725,
+      "display": "8.4 days",
       "as_at": true,
       "goal": "3 to 8 days of work booked ahead",
       "goal_kind": "Everyday",
       "status": "Watch"
     },
     "Compliance Overdue": {
-      "value": 6.0,
-      "display": "6",
+      "value": 5.0,
+      "display": "5",
       "as_at": true,
       "goal": "No more than 2 overdue",
       "goal_kind": "Everyday",
@@ -274,32 +274,32 @@
     }
   },
   "snapshot": {
-    "Backlog Days": 8.7438,
-    "Backlog Hours": 349.75,
-    "Unassigned Jobs": 32.0,
-    "Open Quotes": 110.0,
-    "Open Quote Value": 100620.0,
-    "Stale Quotes": 17.0,
-    "Overdue Invoices": 19.0,
-    "Compliance Overdue": 6.0,
+    "Backlog Days": 8.3725,
+    "Backlog Hours": 334.9,
+    "Unassigned Jobs": 31.0,
+    "Open Quotes": 111.0,
+    "Open Quote Value": 97875.0,
+    "Stale Quotes": 20.0,
+    "Overdue Invoices": 23.0,
+    "Compliance Overdue": 5.0,
     "jobs_by_status": {
-      "Scheduled": 44,
-      "Booked, not yet scheduled": 32,
+      "Scheduled": 42,
+      "Booked, not yet scheduled": 31,
       "On hold, waiting on customer": 6,
-      "On hold, waiting on parts": 6,
-      "In progress": 5
+      "On hold, waiting on parts": 5,
+      "In progress": 4
     },
     "quote_ageing": {
-      "0 to 7 days": 44,
-      "8 to 14 days": 24,
-      "15 to 30 days": 25,
-      "Over 30 days": 17
+      "0 to 7 days": 48,
+      "8 to 14 days": 19,
+      "15 to 30 days": 24,
+      "Over 30 days": 20
     },
     "quote_ageing_value": {
-      "0 to 7 days": 38040.0,
-      "8 to 14 days": 21070.0,
-      "15 to 30 days": 23370.0,
-      "Over 30 days": 18140.0
+      "0 to 7 days": 38850.0,
+      "8 to 14 days": 14515.0,
+      "15 to 30 days": 22980.0,
+      "Over 30 days": 21530.0
     },
     "Test and Tag Due 30 Days": 6.0
   },
@@ -645,15 +645,15 @@
   },
   "story": {
     "callback_rate_by_lead": {
-      "Dave": 0.032,
-      "Liam": 0.018,
+      "Dave": 0.0317,
+      "Liam": 0.0179,
       "Jake": 0.0206,
       "Mitch": 0.0289,
-      "Ravi": 0.0198,
-      "Connor": 0.0955,
-      "Hamish": 0.0221
+      "Ravi": 0.0197,
+      "Connor": 0.0952,
+      "Hamish": 0.022
     },
     "utilisation_12wk": 0.7299,
-    "turnover_12m": 1702560.86
+    "turnover_12m": 1707058.93
   }
 }
